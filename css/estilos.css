@@ -1,0 +1,13 @@
+#circulo{
+   height:100px;
+   width:100px;
+   background:#E76AFA;
+   -moz-border-radius:50px;
+   -webkit-border-radius:50px;
+   border-radius:50px;
+}
+#cuadrado{
+  width: 150px;
+  height: 150px;
+  background: #8AC007;
+ }
